@@ -20,8 +20,8 @@ int main(int argc, char const *argv[])
 	int en = s.size()-1;
 	if(checkPal(s,st,en)){
 		cout<<"true"<<endl;
-	} else{
-	cout<<"false"<<endl;
-}
+	} else {
+		cout<<"false"<<endl;
+	}
 	return 0;
 }
